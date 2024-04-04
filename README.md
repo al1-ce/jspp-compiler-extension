@@ -1,5 +1,7 @@
 # Extension to js++ compiler
 
+# Archived since I do not intend to work on it anymore (at least for now). And js++ is basically dead and had no update since 2021
+
 ## !!!Intended to use with [jspp-vscode](https://github.com/al1-ce/jspp-vscode)!!!
 
 ## Installation:
